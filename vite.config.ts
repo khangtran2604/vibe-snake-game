@@ -13,5 +13,5 @@ export default defineConfig({
   // For repo: https://github.com/username/repo-name
   // This will be: /repo-name/
   // Update this to match your repository name
-  base: process.env.GITHUB_PAGES ? '/simple-todo-v4/' : '/',
+  base: process.env.GITHUB_PAGES ? '/vibe-snake-game/' : '/',
 });
