@@ -1,0 +1,12 @@
+export { DPadControls } from './DPadControls';
+export type { DPadControlsProps } from './DPadControls';
+export { Food } from './Food';
+export type { FoodProps } from './Food';
+export { GameBoard } from './GameBoard';
+export type { GameBoardProps } from './GameBoard';
+export { GameOverScreen } from './GameOverScreen';
+export type { GameOverScreenProps } from './GameOverScreen';
+export { ScoreDisplay } from './ScoreDisplay';
+export type { ScoreDisplayProps } from './ScoreDisplay';
+export { Snake } from './Snake';
+export type { SnakeProps } from './Snake';
